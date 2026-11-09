@@ -60,7 +60,7 @@ Prazo: hoje, 18h
 
 *(exemplo ilustrativo com valores fictícios)*
 
-![Janela de alerta](dados/alerta.png)
+![Janela de alerta](dados/alerta.PNG)
 
 ## Dashboard (Power BI)
 
