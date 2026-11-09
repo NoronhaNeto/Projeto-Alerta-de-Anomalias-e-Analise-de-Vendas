@@ -8,7 +8,7 @@ Detecção automática de quedas anormais de vendas por categoria, com alerta ac
 
 **Tecnologias:** Python (pandas, sqlite3, tkinter) · SQL (CTEs e funções de janela) · Power BI (DAX)
 
-![Dashboard de acompanhamento de vendas](imagens/dashboard.png)
+![Dashboard de acompanhamento de vendas](Dashboard/dashboard.png)
 
 ## Contexto e problema de negócio
 
@@ -60,7 +60,7 @@ Prazo: hoje, 18h
 
 *(exemplo ilustrativo com valores fictícios)*
 
-![Janela de alerta](imagens/alerta.png)
+![Janela de alerta](dados/alerta.png)
 
 ## Dashboard (Power BI)
 
